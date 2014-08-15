@@ -18,9 +18,11 @@ server.methods('dns', 'awesome-sauce', 'asm-products.github.io/awesome-sauce', f
 
 Will point `awesome-sauce.[DOMAIN].com` to `asm-products.github.io/awesome-sauce`, where `DOMAIN` is the domain passed in to this plugin's options.
 
+---
+
 ### License
 
-#### ASM-BSD
+ASM-BSD
 
 Copyright © 2014, Assembly
 All rights reserved.
