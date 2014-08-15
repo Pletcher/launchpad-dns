@@ -1,0 +1,30 @@
+{
+  "name": "launchpad-dns",
+  "version": "0.0.0",
+  "description": "DNSimple plugin for Assembly Launchpad",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Pletcher/launchpad-dns.git"
+  },
+  "keywords": [
+    "launchpad",
+    "assembly",
+    "dns"
+  ],
+  "author": "chuck@assembly.com",
+  "license": "ASM-BSD",
+  "bugs": {
+    "url": "https://github.com/Pletcher/launchpad-dns/issues"
+  },
+  "homepage": "https://github.com/Pletcher/launchpad-dns",
+  "devDependencies": {
+    "hapi": "^6.5.1",
+    "lab": "^4.0.2",
+    "nipple": "^2.5.5",
+    "sinon": "^1.10.3"
+  }
+}
