@@ -24,7 +24,9 @@
   "devDependencies": {
     "hapi": "^6.5.1",
     "lab": "^4.0.2",
-    "nipple": "^2.5.5",
     "sinon": "^1.10.3"
+  },
+  "dependencies": {
+    "nipple": "^2.5.5"
   }
 }
